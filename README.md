@@ -1,4 +1,4 @@
-# Codesoft
+# Codsoft
 
 Number Guessing Game
 Welcome to the Number Guessing Game! This is a simple and interactive console-based game implemented in Java where the user tries to guess a randomly generated number within a specified range.
