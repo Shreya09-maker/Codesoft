@@ -21,3 +21,10 @@ End of Game: At the end of the game, your score (number of rounds won) will be d
 Requirements
 Java Development Kit (JDK) 8 or later
 A command-line terminal for executing the program
+
+
+2]Number Guessing Game
+Welcome to the Number Guessing Game! This is a simple and interactive console-based game implemented in Java where the user tries to guess a randomly generated number within a specified range.
+
+Project Overview
+In this game, the computer generates a random number between 1 and 100, and the user has to guess what the number is. The user is given up to 10 attempts to guess the number correctly. After each guess, the game provides feedback on whether the user's guess was too high, too low, or correct. Once the user either guesses the number correctly or exhausts all attempts, the game informs them of the outcome. Users can choose to play multiple rounds, and their score is tracked based on the number of rounds won.
