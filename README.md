@@ -28,3 +28,4 @@ Welcome to the Number Guessing Game! This is a simple and interactive console-ba
 
 Project Overview
 In this game, the computer generates a random number between 1 and 100, and the user has to guess what the number is. The user is given up to 10 attempts to guess the number correctly. After each guess, the game provides feedback on whether the user's guess was too high, too low, or correct. Once the user either guesses the number correctly or exhausts all attempts, the game informs them of the outcome. Users can choose to play multiple rounds, and their score is tracked based on the number of rounds won.
+3]
