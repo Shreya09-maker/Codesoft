@@ -28,4 +28,33 @@ Welcome to the Number Guessing Game! This is a simple and interactive console-ba
 
 Project Overview
 In this game, the computer generates a random number between 1 and 100, and the user has to guess what the number is. The user is given up to 10 attempts to guess the number correctly. After each guess, the game provides feedback on whether the user's guess was too high, too low, or correct. Once the user either guesses the number correctly or exhausts all attempts, the game informs them of the outcome. Users can choose to play multiple rounds, and their score is tracked based on the number of rounds won.
-3]
+
+
+3]ATM Machine Project
+Welcome to the ATM Machine Project repository! This project implements a simple ATM system that includes user interface design, interaction with a bank account, and transaction handling. The objective is to create an ATM machine that supports withdrawing, depositing, and checking balances, with appropriate validation and user feedback.
+
+Project Overview
+This project consists of several components:
+
+ATM Class: Represents the ATM machine with methods to interact with the user.
+User Interface: Designed to provide options for withdrawing, depositing, and checking the balance.
+Bank Account Class: Manages the user's account balance and handles transactions.
+Validation & Feedback: Ensures user input is valid and provides appropriate messages based on user actions.
+Features
+ATM Machine Class:
+
+withdraw(amount): Allows users to withdraw a specified amount from their account.
+deposit(amount): Allows users to deposit a specified amount into their account.
+checkBalance(): Displays the current balance of the user’s account.
+Bank Account Class:
+
+Stores and manages the balance of the user.
+Provides methods to update the balance based on transactions.
+User Input Validation:
+
+Ensures that withdrawal amounts do not exceed the current balance.
+Validates deposit and withdrawal amounts to be within acceptable limits.
+User Interface:
+
+Offers a menu for users to choose between different operations (withdraw, deposit, check balance).
+Displays appropriate success or failure messages based on user interactions.
