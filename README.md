@@ -58,3 +58,33 @@ User Interface:
 
 Offers a menu for users to choose between different operations (withdraw, deposit, check balance).
 Displays appropriate success or failure messages based on user interactions.
+
+
+4]Quiz Application with Timer
+Overview
+This project is a quiz application designed to challenge users with timed multiple-choice questions. It offers an engaging and interactive way to test knowledge while adhering to a strict time limit for each question.
+
+Features
+Quiz Questions and Options:
+
+Store and manage a set of quiz questions, each accompanied by multiple-choice options.
+Track correct answers for each question to facilitate accurate scoring.
+Timer:
+
+Implement a countdown timer for each question, ensuring users have a limited amount of time to submit their answers.
+Question Display:
+
+Present one question at a time to the user, along with its multiple-choice options for a focused and straightforward answering process.
+Answer Submission:
+
+Allow users to select an answer option and submit their response within the allocated time frame.
+Automatically move to the next question once an answer is submitted or time expires.
+Score Calculation:
+
+Track and calculate the user’s score based on the number of correct answers given throughout the quiz.
+Result Screen:
+
+Display a final score at the end of the quiz.
+Provide a summary of correct and incorrect answers, offering insight into the user's performance.
+
+
